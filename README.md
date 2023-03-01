@@ -6,4 +6,4 @@
 
 
 ## 🌐 Frente do site
-<img width="900" heigth="900"  src="https://cdn.discordapp.com/attachments/1009292076627808256/1079520439417704549/image.png">
+<img width="900" heigth="900"  src="https://media.discordapp.net/attachments/1002055246434025592/1080568600005447830/image.png?width=1155&height=559">
